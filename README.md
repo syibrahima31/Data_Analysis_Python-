@@ -17,14 +17,13 @@ Data analysis is a **process of inspecting**, **cleansing**, **transforming**, a
 ### PARTIE II : DÉCOUVERTE DE LA BIBLIOTHÉQUE `PANDAS` 
 -------------
 - LES FONDAMENTAUX DE `PANDAS` 
-- **CAS PARTIQUES** :  ANALYSER DES DONNÉES AVEC `PANDAS` 
+- **CAS PARTIQUE** :  ANALYSER DES DONNÉES AVEC `PANDAS` 
 
 ### PARTE III : LES ENVIRONNEMENT DE VSUALISATION 
 --------------
 - DECOUVERTE DE `MATPLOTLIB`
 - DECOUVERTE DE `PANDAS`
 - CAS PRATIQUE
--  
 ### PARTIE IV: (BONNUS) QUELQUES ALGORITHMES DE MACHINE LEARNING 
 -------------------------------------------------------------------
 - ALGORITHME DE REGRESSION LINÉAIRE 
