@@ -27,7 +27,6 @@ Data analysis is a **process of inspecting**, **cleansing**, **transforming**, a
 - ALGORITHME DE REGRESSION LINÉAIRE 
 - ALGORITHME DE REGRESSION DE LOGISTIQUE 
 - ALGORITHME DES KMEANS 
-- 
 ### EVALUATION V :
 ----------------
 - PROJETS INTERMÉDAIRES 
