@@ -6,4 +6,12 @@ Data analysis is a **process of inspecting**, **cleansing**, **transforming**, a
 # PROGRAMME : 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Partie I : 
+### Partie I : Découverte de la bibliothéque Numpy 
+-------------
+- Les Fondamentaux de  `Numpy` 
+- Analyser des Données avec `Numpy`
+
+### Partie I : Découverte de la biblithéque Pandas 
+-------------
+- Les Fondamentaux de `Pandas` 
+- Analyser des données avec `Pandas` 
