@@ -24,6 +24,7 @@ Data analysis is a **process of inspecting**, **cleansing**, **transforming**, a
 - CAS PRATIQUE
 -  
 ### PARTIE IV: (BONNUS) QUELQUES ALGORITHMES DE MACHINE LEARNING 
+-------------------------------------------------------------------
 - ALGORITHME DE REGRESSION LINÉAIRE 
 - ALGORITHME DE REGRESSION DE LOGISTIQUE 
 - ALGORITHME DES KMEANS 
