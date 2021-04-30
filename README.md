@@ -7,6 +7,7 @@ Data analysis is a **process of inspecting**, **cleansing**, **transforming**, a
 # PROGRAMME : 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### PARTIE 0 : RAPPEL SUR LES BASES DU LANGAGE `PYTHON`
+-----------
 
 ### PARTIE I  : DÉCOUVERTE DE LA BIBLIOTHÉQUE `NUMPY` 
 -------------
