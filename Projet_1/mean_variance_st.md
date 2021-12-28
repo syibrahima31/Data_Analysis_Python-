@@ -3,10 +3,9 @@
 - **Prof **: Mr SY 
 - **Email **: syibrahima31@gmail.com
 
-- **Master 2** : IAGE , Institut supérieur Informatique 
+- **Master 1 ** : DSIA, Institut supérieur Informatique 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Créez une fonction nommée `calculate()` dans un notebook  `mean_var_std.ipynb` qui utilise **Numpy** pour produire la `moyenne`, la `variance`, `l'écart-type`, le `maximum`, le `minimum` et la `somme `par  lignes, par colonnes et  pour tous les élements d'une matrice 3 x 3. 
